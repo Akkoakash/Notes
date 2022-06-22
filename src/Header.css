@@ -1,0 +1,13 @@
+.header{
+    display:flex;
+    background-color: red;
+    flex:0.5;
+    color:whitesmoke;
+    padding: 10px 20px;
+    height: 70px;
+}
+h1{
+    text-align: center;
+    letter-spacing: 2px;
+    font-weight: 500;
+}
